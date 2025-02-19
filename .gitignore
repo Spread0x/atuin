@@ -1,6 +1,12 @@
+.DS_Store
 /target
 */target
 .env
 .idea/
 .vscode/
 result
+publish.sh
+.envrc
+
+ui/backend/target
+ui/backend/gen
